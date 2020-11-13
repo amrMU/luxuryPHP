@@ -1,0 +1,22 @@
+{
+    "name": "amrmoh-com/luxury-php",
+    "description": "luxuryPHP framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amr Muhamed",
+            "email": "amrmuhamed9@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "~7.4.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "luxury\\": "luxury/src/"
+        }
+    }
+}
