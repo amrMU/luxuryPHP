@@ -6,9 +6,7 @@ class Application{
      * Application Construct
      **/
     private function __construct()
-    {
-
-    }
+    {}
 
     /**
     * Application Run
