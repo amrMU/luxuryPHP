@@ -17,5 +17,4 @@ class Application{
     public function run(){
         echo  "Say Hi";
     }
-
 }
